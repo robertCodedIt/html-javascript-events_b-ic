@@ -1,4 +1,4 @@
-# html-javascript-events_b-ic
+# HTML DOM and JavaScript Events - ic
 
 ### Exercise 1:
 Create an HTML page containing 3 different buttons, one saying ```RED```, one saying ```GREEN```, and one saying ```BLUE```.
