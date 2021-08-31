@@ -1,5 +1,7 @@
 # HTML DOM and JavaScript Events - ic
 
+NOTE: Use Arrow function syntax!
+
 ### Exercise 1:
 Create an HTML page containing 3 different buttons, one saying ```RED```, one saying ```GREEN```, and one saying ```BLUE```.
 When the User holds the mouse over one of the buttons, change the background color according to the text value on the button. The default background color should be white.
